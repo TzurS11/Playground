@@ -1,4 +1,4 @@
- ## Playground is a super lightweight bot for starting voice channel activities.
+## Playground is a super lightweight bot for starting voice channel activities.
 
 # How do I use the bot?
 The bot only has one feature and it's to start voice channel activities.
