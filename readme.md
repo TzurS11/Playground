@@ -1,0 +1,1 @@
+This is a bot for starting discord activities.
