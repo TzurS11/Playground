@@ -8,11 +8,11 @@ The command is:
 The bot will send the message privatly in the chat (ephemeral) and will have 2 buttons. One is for joining the activity and the second button is for inviting the bot to a server.
 
 
-### How can I create my own bot using this template
+<!-- ### How can I create my own bot using this template
 1. Simply fork the bot
 2. download all the needed npm modules
 3. add a `.env` file and inside of it write
 ```js
 DISCORD_TOKEN=your discord token
 ```
-4. host the bot in any server you want
+4. host the bot in any server you want -->
