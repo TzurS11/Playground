@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q2BRORM)
+
 ### Playground is a super lightweight bot for starting voice channel activities.
 
 # How do I use the bot?
